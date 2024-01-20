@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">IMDbMovies</string>
+    <string name="application_made_by_nikolina_orkalo">Application made by Nikolina Čorkalo</string>
+    <string name="items">Items</string>
+    <string name="about">about</string>
+    <string name="exit">Exit</string>
+    <string name="no_internet">No internet</string>
+    <string name="rank">Rank</string>
+    <string name="title">Title</string>
+    <string name="fulltitle">FullTitle</string>
+    <string name="year">year</string>
+    <string name="crew">crew</string>
+    <string name="imdbrating">imDbRating</string>
+
+
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/menuItems"
+    android:id="@+id/fragment">
+
+    <fragment
+        tools:layout="@layout/fragment_movie_item"
+        android:label="@string/items"
+        android:id="@+id/menuItems"
+        android:name="hr.algebra.imdbmovies.MovieItemFragment"
+        />
+
+    <fragment
+        tools:layout="@layout/fragment_about"
+        android:label="@string/about"
+        android:id="@+id/menuAbout"
+        android:name="hr.algebra.imdbmovies.AboutFragment"
+        />
+
+</navigation>
